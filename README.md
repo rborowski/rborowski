@@ -94,14 +94,6 @@ Engaged in the modernization and large-scale refactoring project of a mission-cr
 Open-source geocaching platform maintained collaboratively by international volunteers since 2006. Gained hands-on experience with distributed development workflows, legacy architecture, and open-source collaboration.
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 </div>
 
 <div align="center">
