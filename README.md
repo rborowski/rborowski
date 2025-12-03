@@ -1,7 +1,5 @@
 <div align="center">
 
----
-
 **Full Stack Developer** | Backend Focus | Based in Gdynia, Poland 📌
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-work.rborowski.pl-2ea44f?style=for-the-badge)](https://work.rborowski.pl)
