@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rafał 👋
+---
 
 **Full Stack Developer** | Backend Focus | Based in Gdynia, Poland 📌
 
